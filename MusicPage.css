@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bgimage {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+  height: 50vh;
+  background-size: cover;
+  padding: 40px;
+}
+
+.homecenter {
+  text-align: center;
+}
+
+.sleepmusicheading {
+  font-family: bree Serif;
+  font-size: 28px;
+  color: #ffffff;
+}
+
+.homeparagraph {
+  font-family: bree Serif;
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.bgclr {
+  background-color: #03174c;
+}
+
+.bgimage1 {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+  height: 30vh;
+  background-size: cover;
+  margin: 20px;
+  padding: 30px;
+}
+
+.nightheading {
+  font-family: bree Serif;
+  font-size: 25px;
+  color: #ffffff;
+}
+
+.homebutton {
+  height: 30px;
+  width: 110px;
+  border-radius: 10px;
+  background-color: #8e97fd;
+  color: #ffffff;
+  font-family: bree Serif;
+  border-width: 0px;
+  margin-bottom: 50px;
+}
+
+.nightimage {
+  height: 180px;
+  width: 320px;
+  margin-bottom: 10px;
+}
+
+.nightparagraph {
+  font-family: bree Serif;
+  font-size: 13px;
+  color: #98a1bd;
+}
+
+.nightpadding {
+  padding: 10px;
+}
+
+.nightheading1 {
+  font-family: bree Serif;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.nightimagecards {
+  height: 80px;
+  width: 120px;
+  margin-right: 10px;
+}
